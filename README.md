@@ -1,6 +1,6 @@
 # ¡Hola! Soy Carlos Manzano 👋
 
-Soy **estudiante de Desarrollo de Software (1º de DAM)**. Me encanta pelearme con el código para resolver problemas y disfruto creando proyectos. Actualmente estoy muy centrado en Java, PostgreSQL, HTML, CSS y JavaScript, pero también estoy empezando con Python. Siempre tengo ganas de aprender lenguajes nuevos.
+Soy **estudiante de Desarrollo de Software (2º de DAM)**. Me encanta pelearme con el código para resolver problemas y disfruto creando proyectos. Actualmente estoy muy centrado en Java, PostgreSQL, HTML, CSS y JavaScript, pero también estoy empezando con Python. Siempre tengo ganas de aprender lenguajes nuevos.
 
 ---
 
