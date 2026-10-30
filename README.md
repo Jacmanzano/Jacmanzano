@@ -27,4 +27,4 @@ Soy **estudiante de Desarrollo de Software (1º de DAM)**. Me encanta pelearme c
 
 ## 📫 Conecta conmigo:
 * **LinkedIn:** [linkedin.com/in/cmr227/](https://www.linkedin.com/in/cmr227/)
-* **Web:** [portfolio.c-manzano.com](https://portfolio.c-manzano.com/)
+* **Web:** [portfolio.c-manzano.com](https://c-manzano.com/)
